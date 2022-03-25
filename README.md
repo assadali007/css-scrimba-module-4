@@ -4,3 +4,7 @@
 ![Firefox_Screenshot_2022-03-25T06-21-17 237Z](https://user-images.githubusercontent.com/60251000/160066198-63074cdc-c872-4071-a96b-7852ce2a50ee.png)
 #putting all together
 ![Firefox_Screenshot_2022-03-25T06-26-59 592Z](https://user-images.githubusercontent.com/60251000/160066487-8d33a29f-23ed-45c1-a72f-7a2815453b47.png)
+
+# portfolio
+![Firefox_Screenshot_2022-03-25T06-29-43 125Z](https://user-images.githubusercontent.com/60251000/160066836-6d667710-7081-42c9-855b-42b7f280cdfb.png)
+
