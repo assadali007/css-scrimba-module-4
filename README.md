@@ -1,2 +1,4 @@
 # card 
 ![Firefox_Screenshot_2022-03-25T06-14-14 909Z](https://user-images.githubusercontent.com/60251000/160065383-bb71f3a4-e6c2-44cc-84f9-9b45af036306.png)
+#margin and padding
+![Firefox_Screenshot_2022-03-25T06-21-17 237Z](https://user-images.githubusercontent.com/60251000/160066198-63074cdc-c872-4071-a96b-7852ce2a50ee.png)
